@@ -41,7 +41,7 @@ an automated micro-irrigation system is a device that allows one to deliver wate
 
 ### Using setup.sh
 ```bash
-git clone https://github.com/anomius/mitwpu-hack.git
+git clone https://github.com/DhairyaSaluja/Smart-Irrigation-System.git
 cd mitwpu-hack
 nano API.py
 ### edit the following line to the end of the file
